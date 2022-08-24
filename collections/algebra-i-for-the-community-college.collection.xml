@@ -1,436 +1,168 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Textbook">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Textbook" authors="Ann Simao">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11598</md:content-id>
-  <md:title>Algebra I for the Community College</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>626beb31-a872-4405-a34a-8767e8bb3c50</md:uuid>
-<md:slug>algebra-i-for-the-community-college</md:slug>
-</metadata>
-
+    <md:content-id>col11598</md:content-id>
+    <md:title>Algebra I for the Community College</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>626beb31-a872-4405-a34a-8767e8bb3c50</md:uuid>
+    <md:slug>algebra-i-for-the-community-college</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 1: Introduction to Real Numbers and Algebraic Expressions</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 1 Part A</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m35029">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m21895"/>
-        
-      
-    
-    
-      <col:module document="m35030">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m35031">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m35032">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 1 Part B</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m35033">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m35038">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m35046">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m35047">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m35039">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 2: Solving Linear Equations and Inequalities</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 2 Part A</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m35044">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m21981"/>
-        
-      
-    
-    
-      <col:module document="m18876"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 2 Part B</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m21982"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 3: Graphing Linear Equations and Inequalities</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 3 Part A</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m21993"/>
-        
-      
-    
-    
-      <col:module document="m21998"/>
-        
-      
-    
-    
-      <col:module document="m22000"/>
-        
-      
-    
-    
-      <col:module document="m22014"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 3 Part B</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m18877"/>
-        
-      
-    
-    
-      <col:module document="m22011"/>
-        
-      
-    
-    
-      <col:module document="m21995"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 4: Solving Systems of Linear Equations</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m21986"/>
-        
-      
-    
-    
-      <col:module document="m21984"/>
-        
-      
-    
-    
-      <col:module document="m18881"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 5: Exponents and Polynomials</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 5 Part X</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m21854"/>
-        
-      
-    
-    
-      <col:module document="m21883"/>
-        
-      
-    
-    
-      <col:module document="m21897"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter 5 Part Y</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m21852"/>
-        
-      
-    
-    
-      <col:module document="m21858"/>
-        
-      
-    
-    
-      <col:module document="m21946"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:subcollection>
+      <md:title>Chapter 1: Introduction to Real Numbers and Algebraic Expressions</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Chapter 1 Part A</md:title>
+          <col:content>
+            <col:module document="m35029">
+              <col:featured-links>
+                <cnxml:link-group type="supplemental">
+                  <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
+                </cnxml:link-group>
+              </col:featured-links>
+            </col:module>
+            <col:module document="m21895"/>
+            <col:module document="m35030">
+              <col:featured-links>
+                <cnxml:link-group type="supplemental">
+                  <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
+                </cnxml:link-group>
+              </col:featured-links>
+            </col:module>
+            <col:module document="m35031">
+              <col:featured-links>
+                <cnxml:link-group type="supplemental">
+                  <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
+                </cnxml:link-group>
+              </col:featured-links>
+            </col:module>
+            <col:module document="m35032">
+              <col:featured-links>
+                <cnxml:link-group type="supplemental">
+                  <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
+                </cnxml:link-group>
+              </col:featured-links>
+            </col:module>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 1 Part B</md:title>
+          <col:content>
+            <col:module document="m35033">
+              <col:featured-links>
+                <cnxml:link-group type="supplemental">
+                  <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
+                </cnxml:link-group>
+              </col:featured-links>
+            </col:module>
+            <col:module document="m35038">
+              <col:featured-links>
+                <cnxml:link-group type="supplemental">
+                  <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
+                </cnxml:link-group>
+              </col:featured-links>
+            </col:module>
+            <col:module document="m35046">
+              <col:featured-links>
+                <cnxml:link-group type="supplemental">
+                  <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
+                </cnxml:link-group>
+              </col:featured-links>
+            </col:module>
+            <col:module document="m35047">
+              <col:featured-links>
+                <cnxml:link-group type="supplemental">
+                  <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
+                </cnxml:link-group>
+              </col:featured-links>
+            </col:module>
+            <col:module document="m35039">
+              <col:featured-links>
+                <cnxml:link-group type="supplemental">
+                  <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
+                </cnxml:link-group>
+              </col:featured-links>
+            </col:module>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 2: Solving Linear Equations and Inequalities</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Chapter 2 Part A</md:title>
+          <col:content>
+            <col:module document="m35044">
+              <col:featured-links>
+                <cnxml:link-group type="supplemental">
+                  <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
+                </cnxml:link-group>
+              </col:featured-links>
+            </col:module>
+            <col:module document="m21981"/>
+            <col:module document="m18876"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 2 Part B</md:title>
+          <col:content>
+            <col:module document="m21982"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 3: Graphing Linear Equations and Inequalities</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Chapter 3 Part A</md:title>
+          <col:content>
+            <col:module document="m21993"/>
+            <col:module document="m21998"/>
+            <col:module document="m22000"/>
+            <col:module document="m22014"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 3 Part B</md:title>
+          <col:content>
+            <col:module document="m18877"/>
+            <col:module document="m22011"/>
+            <col:module document="m21995"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 4: Solving Systems of Linear Equations</md:title>
+      <col:content>
+        <col:module document="m21986"/>
+        <col:module document="m21984"/>
+        <col:module document="m18881"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 5: Exponents and Polynomials</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Chapter 5 Part X</md:title>
+          <col:content>
+            <col:module document="m21854"/>
+            <col:module document="m21883"/>
+            <col:module document="m21897"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 5 Part Y</md:title>
+          <col:content>
+            <col:module document="m21852"/>
+            <col:module document="m21858"/>
+            <col:module document="m21946"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
